@@ -7,5 +7,6 @@ Acest proiect implementează un chatBot care poate sugera posibile boli pe baza 
  - utilizează o rețea neuronală construită cu **TensorFlow/Keras**
  - interfață text simplă pentru interacțiune
 
-##Exemplu
+# Exemplu
+
 <img width="297" alt="exemplu" src="https://github.com/user-attachments/assets/371cb7c5-9155-416a-b0ff-946c18fcc70a" />
