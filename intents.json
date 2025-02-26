@@ -1,0 +1,250 @@
+{
+    "intents": [
+        {
+            "tag": "(vertigo) Paroymsal  Positional Vertigo",
+            "patterns": [
+                " spinning_movements  unsteadiness  loss_of_balance  nausea  headache  vomiting"
+            ]
+        },
+        {
+            "tag": "AIDS",
+            "patterns": [
+                " patches_in_throat  muscle_wasting  extra_marital_contacts  high_fever"
+            ]
+        },
+        {
+            "tag": "Acne",
+            "patterns": [
+                " scurring  skin_rash  pus_filled_pimples  blackheads"
+            ]
+        },
+        {
+            "tag": "Alcoholic hepatitis",
+            "patterns": [
+                " yellowish_skin  swelling_of_stomach  distention_of_abdomen  fluid_overload  vomiting  history_of_alcohol_consumption  abdominal_pain"
+            ]
+        },
+        {
+            "tag": "Allergy",
+            "patterns": [
+                " continuous_sneezing  chills  shivering  watering_from_eyes"
+            ]
+        },
+        {
+            "tag": "Arthritis",
+            "patterns": [
+                " swelling_joints  movement_stiffness  stiff_neck  painful_walking  muscle_weakness"
+            ]
+        },
+        {
+            "tag": "Bronchial Asthma",
+            "patterns": [
+                " cough  fatigue  family_history  high_fever  mucoid_sputum  breathlessness"
+            ]
+        },
+        {
+            "tag": "Cervical spondylosis",
+            "patterns": [
+                " back_pain  weakness_in_limbs  neck_pain  loss_of_balance  dizziness"
+            ]
+        },
+        {
+            "tag": "Chicken pox",
+            "patterns": [
+                " mild_fever  red_spots_over_body  lethargy itching  fatigue  headache  loss_of_appetite  skin_rash  high_fever  swelled_lymph_nodes  malaise"
+            ]
+        },
+        {
+            "tag": "Chronic cholestasis",
+            "patterns": [
+                " yellowing_of_eyes itching  yellowish_skin  nausea  loss_of_appetite  vomiting  abdominal_pain"
+            ]
+        },
+        {
+            "tag": "Common Cold",
+            "patterns": [
+                " chest_pain  chills  cough  phlegm  loss_of_smell  muscle_pain  fatigue  continuous_sneezing  headache  sinus_pressure  throat_irritation  high_fever  redness_of_eyes  congestion  runny_nose  swelled_lymph_nodes  malaise"
+            ]
+        },
+        {
+            "tag": "Dengue",
+            "patterns": [
+                " back_pain  red_spots_over_body  pain_behind_the_eyes  chills  muscle_pain  nausea  fatigue  headache  loss_of_appetite  joint_pain  skin_rash  vomiting  high_fever  malaise"
+            ]
+        },
+        {
+            "tag": "Diabetes ",
+            "patterns": [
+                " lethargy  weight_loss  blurred_and_distorted_vision  obesity  polyuria  increased_appetite  fatigue  excessive_hunger  irregular_sugar_level  restlessness"
+            ]
+        },
+        {
+            "tag": "Dimorphic hemmorhoids(piles)",
+            "patterns": [
+                " constipation  pain_during_bowel_movements  pain_in_anal_region  bloody_stool  irritation_in_anus"
+            ]
+        },
+        {
+            "tag": "Drug Reaction",
+            "patterns": [
+                "itching  stomach_pain  spotting_ urination  burning_micturition  skin_rash"
+            ]
+        },
+        {
+            "tag": "Fungal infection",
+            "patterns": [
+                " skin_rash  dischromic _patches  nodal_skin_eruptions itching"
+            ]
+        },
+        {
+            "tag": "GERD",
+            "patterns": [
+                " ulcers_on_tongue  acidity  stomach_pain  cough  vomiting  chest_pain"
+            ]
+        },
+        {
+            "tag": "Gastroenteritis",
+            "patterns": [
+                " diarrhoea  vomiting  dehydration  sunken_eyes"
+            ]
+        },
+        {
+            "tag": "Heart attack",
+            "patterns": [
+                " chest_pain  vomiting  breathlessness  sweating"
+            ]
+        },
+        {
+            "tag": "Hepatitis B",
+            "patterns": [
+                " yellowing_of_eyes  receiving_unsterile_injections  lethargy itching  yellowish_skin  receiving_blood_transfusion  fatigue  yellow_urine  loss_of_appetite  dark_urine  abdominal_pain  malaise"
+            ]
+        },
+        {
+            "tag": "Hepatitis C",
+            "patterns": [
+                " yellowing_of_eyes  yellowish_skin  nausea  fatigue  family_history  loss_of_appetite"
+            ]
+        },
+        {
+            "tag": "Hepatitis D",
+            "patterns": [
+                " yellowing_of_eyes  yellowish_skin  nausea  fatigue  loss_of_appetite  joint_pain  dark_urine  vomiting  abdominal_pain"
+            ]
+        },
+        {
+            "tag": "Hepatitis E",
+            "patterns": [
+                " yellowing_of_eyes  yellowish_skin  nausea  coma  fatigue  acute_liver_failure  stomach_bleeding  loss_of_appetite  joint_pain  vomiting  dark_urine  high_fever  abdominal_pain"
+            ]
+        },
+        {
+            "tag": "Hypertension ",
+            "patterns": [
+                " loss_of_balance  dizziness  headache  lack_of_concentration  chest_pain"
+            ]
+        },
+        {
+            "tag": "Hyperthyroidism",
+            "patterns": [
+                " weight_loss  fast_heart_rate  abnormal_menstruation  diarrhoea  fatigue  mood_swings  excessive_hunger  sweating  irritability  muscle_weakness  restlessness"
+            ]
+        },
+        {
+            "tag": "Hypoglycemia",
+            "patterns": [
+                " blurred_and_distorted_vision  nausea  slurred_speech  fatigue  drying_and_tingling_lips  headache  excessive_hunger  anxiety  vomiting  sweating  irritability  palpitations"
+            ]
+        },
+        {
+            "tag": "Hypothyroidism",
+            "patterns": [
+                " lethargy  abnormal_menstruation  brittle_nails  puffy_face_and_eyes  swollen_extremeties  dizziness  fatigue  mood_swings  depression  weight_gain  irritability  enlarged_thyroid  cold_hands_and_feets"
+            ]
+        },
+        {
+            "tag": "Impetigo",
+            "patterns": [
+                " blister  yellow_crust_ooze  high_fever  skin_rash  red_sore_around_nose"
+            ]
+        },
+        {
+            "tag": "Jaundice",
+            "patterns": [
+                "itching  weight_loss  yellowish_skin  fatigue  vomiting  dark_urine  high_fever  abdominal_pain"
+            ]
+        },
+        {
+            "tag": "Malaria",
+            "patterns": [
+                " chills  diarrhoea  muscle_pain  high_fever  nausea  headache  vomiting  sweating"
+            ]
+        },
+        {
+            "tag": "Migraine",
+            "patterns": [
+                " acidity  blurred_and_distorted_vision  indigestion  headache  excessive_hunger  depression  stiff_neck  irritability  visual_disturbances"
+            ]
+        },
+        {
+            "tag": "Osteoarthristis",
+            "patterns": [
+                " knee_pain  neck_pain  swelling_joints  hip_joint_pain  joint_pain  painful_walking"
+            ]
+        },
+        {
+            "tag": "Paralysis (brain hemorrhage)",
+            "patterns": [
+                " headache  weakness_of_one_body_side  vomiting  altered_sensorium"
+            ]
+        },
+        {
+            "tag": "Peptic ulcer diseae",
+            "patterns": [
+                " indigestion  internal_itching  loss_of_appetite  passage_of_gases  vomiting  abdominal_pain"
+            ]
+        },
+        {
+            "tag": "Pneumonia",
+            "patterns": [
+                " fast_heart_rate  chills  cough  phlegm  rusty_sputum  fatigue  sweating  high_fever  chest_pain  breathlessness  malaise"
+            ]
+        },
+        {
+            "tag": "Psoriasis",
+            "patterns": [
+                " silver_like_dusting  inflammatory_nails  skin_peeling  joint_pain  skin_rash  small_dents_in_nails"
+            ]
+        },
+        {
+            "tag": "Tuberculosis",
+            "patterns": [
+                " yellowing_of_eyes  mild_fever  weight_loss  chills  cough  phlegm  fatigue  loss_of_appetite  sweating  vomiting  blood_in_sputum  high_fever  chest_pain  swelled_lymph_nodes  breathlessness  malaise"
+            ]
+        },
+        {
+            "tag": "Typhoid",
+            "patterns": [
+                " chills  constipation  diarrhoea  nausea  belly_pain  fatigue  toxic_look_(typhos)  headache  vomiting  high_fever  abdominal_pain"
+            ]
+        },
+        {
+            "tag": "Urinary tract infection",
+            "patterns": [
+                " continuous_feel_of_urine  foul_smell_of urine  bladder_discomfort  burning_micturition"
+            ]
+        },
+        {
+            "tag": "Varicose veins",
+            "patterns": [
+                " obesity  cramps  fatigue  bruising  prominent_veins_on_calf  swollen_legs  swollen_blood_vessels"
+            ]
+        },
+        {
+            "tag": "hepatitis A",
+            "patterns": [
+                " yellowing_of_eyes  mild_fever  yellowish_skin  diarrhoea  muscle_pain  nausea  loss_of_appetite  joint_pain  dark_urine  vomiting  abdominal_pain"
+            ]
+        }
+    ]
+}
