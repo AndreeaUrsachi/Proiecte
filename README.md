@@ -1,2 +1,2 @@
 # Proiecte
-Un mic protofoliu cu proiectele mele
+Protofoliul cu proiectele mele
